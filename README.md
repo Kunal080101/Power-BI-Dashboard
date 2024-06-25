@@ -44,13 +44,13 @@ The dashboard includes several interactive visuals:
 
 ## Screenshots
 
-![Sum of Quantities by Category]
+![Sum of Quantities by Category] (Sum of Quantity by category.png)
 *Sum of Quantities by Category*
 
-![Sum of Amount by State]
+![Sum of Amount by State](Profit by State.png)
 *Sum of Amount by State*
 
-![Profit by Month]
+![Profit by Month] (Profit By month.png)
 *Profit by Month*
 
 ## Contributing
