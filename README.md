@@ -47,7 +47,7 @@ The dashboard includes several interactive visuals:
 ![Sum of Quantities by Category] (https://github.com/Kunal080101/Power-BI-Dashboard/blob/a6e9889de7a521f77284b4ff462faf196816607f/Sum%20of%20Quantity%20by%20category.png)
 *Sum of Quantities by Category*
 
-![Sum of Amount by State](https://github.com/Kunal080101/Power-BI-Dashboard/blob/a6e9889de7a521f77284b4ff462faf196816607f/Profit%20by%20State.png)
+![Sum of Amount by State] (https://github.com/Kunal080101/Power-BI-Dashboard/blob/a6e9889de7a521f77284b4ff462faf196816607f/Profit%20by%20State.png)
 *Sum of Amount by State*
 
 ![Profit by Month] (https://github.com/Kunal080101/Power-BI-Dashboard/blob/a6e9889de7a521f77284b4ff462faf196816607f/Profit%20By%20month.png)
